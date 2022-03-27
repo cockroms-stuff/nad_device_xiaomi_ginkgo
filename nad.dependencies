@@ -1,0 +1,8 @@
+[
+   {
+    "remote":       "ghpriv",
+    "repository"  : "NusantaraROM-Devices/android_device_xiaomi_ginkgo",
+    "target_path" : "device/xiaomi/gw",
+    "branch":       "12.1"
+  }
+]
